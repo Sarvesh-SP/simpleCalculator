@@ -1,2 +1,3 @@
 # simpleCalculator
-simple calculator.
+
+- experimenting with flex-box
